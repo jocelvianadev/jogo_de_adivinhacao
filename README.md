@@ -1,1 +1,1 @@
-# Jogo de adivinhação desenevolvido em python.
+# Jogo de adivinhação desenvolvido em python.
